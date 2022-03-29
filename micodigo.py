@@ -9,4 +9,6 @@ def llenado_de_huecos():
 print('agregue u parrafo de lo profundo de mi corazón')
 print('cabecera')
 
-print('modificaciones a la cabecera')
+print('este es tu blog maestro')
+
+print('suscribete y dale a likes')
