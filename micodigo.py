@@ -7,3 +7,6 @@ def llenado_de_huecos():
     print('ya llene los huecos')
 
 print('agregue u parrafo de lo profundo de mi corazón')
+print('cabecera')
+
+print('modificaciones a la cabecera')
