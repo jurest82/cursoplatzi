@@ -10,3 +10,5 @@ print('agregue u parrafo de lo profundo de mi corazón')
 print('cabecera')
 
 print('este es mi blog de cabecera')
+
+print('esto son solo algunos cambios')
